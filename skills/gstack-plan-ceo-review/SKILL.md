@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-plan-ceo-review/SKILL.md

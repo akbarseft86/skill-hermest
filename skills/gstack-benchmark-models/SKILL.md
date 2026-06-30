@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-benchmark-models/SKILL.md

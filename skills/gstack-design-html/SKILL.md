@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-design-html/SKILL.md

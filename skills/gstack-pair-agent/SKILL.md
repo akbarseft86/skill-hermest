@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-pair-agent/SKILL.md

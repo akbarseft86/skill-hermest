@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-document-release/SKILL.md

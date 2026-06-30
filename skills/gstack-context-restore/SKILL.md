@@ -1,0 +1,1 @@
+/root/gstack/.hermes/skills/gstack-context-restore/SKILL.md
